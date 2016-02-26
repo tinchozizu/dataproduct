@@ -68,15 +68,3 @@ NominalRate(102.5, 100, dates[2], dates[1])
 ```
 ## [1] 0.304219
 ```
-
---- 
-
-
-## The importance of these concepts
-
-When someone is making an investment capitilizations periods may differ and therefore effective rate also may differ. A nominal rate is way of seeing and standarized variable of such investment return independently of capitalization periods.
-
---- 
-
-
-
